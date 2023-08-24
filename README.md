@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif" align="center" style="width: 90%" />
 </div>  
   
 
