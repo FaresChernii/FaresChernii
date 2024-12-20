@@ -48,16 +48,16 @@ I'm an AI Engineer with a strong background in industrial electronics and projec
 - Conducted system architecture design for seamless cloud communication.
 
 
-## 🚀 Projects
+## 🚀 Confidential Projects
 
-### Tax Prediction System
-Developed AI-powered models using Random Forest and Linear Regression to predict tax issues, enhancing accuracy by 20%. Integrated OpenAI API for personalized tax recommendations.
+While I cannot publicly share the code or datasets due to confidentiality agreements, here are some highlights of my professional projects:
 
-### AirGuard IoT System
-Created an ESP8266-based IoT solution for real-time air quality monitoring, featuring GPS and cloud integration for data analysis.
+- **Car Damage Detection System**: Developed and trained YOLOv5 and YOLOv8 models for detecting car damage with polygon-labeled datasets, achieving a high mAP of 90%.
+- **ETL Pipeline for Vehicle Analytics**: Designed a FastAPI-based ETL pipeline with Redis caching, reducing execution time by 80% and processing Elasticsearch data for dashboard metrics like fuel consumption and trip durations.
+- **Multi-Language Document Processing**: Built an object detection system using YOLOv5 integrated with FastAPI and Docker, supporting country identification for 195 nations.
 
-### SmartPresence Attendance System
-Engineered an intelligent RFID-based system to automate student attendance tracking, utilizing Arduino and Firebase for real-time data management.
+Feel free to contact me if you'd like to learn more about my contributions to these projects!
+
 
 
 ## 📜 Certifications
