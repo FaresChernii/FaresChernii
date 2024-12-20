@@ -13,32 +13,12 @@ I'm an AI Engineer with a strong background in industrial electronics and projec
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:**
-- Python
-- C, C++
-- Dart
+| **Programming Languages**   | **AI & Machine Learning**           | **Embedded Systems**           | **Tools & Platforms**           |
+|------------------------------|-------------------------------------|---------------------------------|---------------------------------|
+| Python, C, C++              | Data Analysis                      | Raspberry Pi, Arduino          | Git, GitHub, Linux             |
+| Dart, MATLAB                | Machine Learning, Deep Learning    | Microcontrollers, Microprocessors | Docker, FastAPI, Firebase      |
+| SQL, Flutter                | Computer Vision                    | FPGA, ASIC                     | TensorFlow, PyTorch            |
 
-**AI & Machine Learning:**
-- Data Analysis
-- Machine Learning & Deep Learning
-- Computer Vision
-- TensorFlow, PyTorch
-
-**Embedded Systems:**
-- Raspberry Pi, Arduino
-- Microcontrollers & Microprocessors
-- FPGA, ASIC
-
-**Development Frameworks:**
-- Flask
-- Flutter
-
-**Tools & Platforms:**
-- Git & GitHub
-- Linux
-- Docker
-- FastAPI
-- Firebase
 
 ## 💼 Professional Experience
 
