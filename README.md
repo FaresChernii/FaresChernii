@@ -7,10 +7,6 @@
 I'm an AI Engineer with a strong background in industrial electronics and project management. My passion lies in developing innovative AI solutions and embedded systems that drive technological advancement.
  </div> 
   
-
-<br/>  
-
-
 ## 🛠️ Technical Skills
 
 | **Programming Languages**   | **AI & Machine Learning**           | **Embedded Systems**           | **Tools & Platforms**           |
