@@ -40,17 +40,6 @@ I'm an AI Engineer with a strong background in industrial electronics and projec
 - FastAPI
 - Firebase
 
-## 🚀 Projects
-
-### Tax Prediction System
-Developed AI-powered models using Random Forest and Linear Regression to predict tax issues, enhancing accuracy by 20%. Integrated OpenAI API for personalized tax recommendations.
-
-### AirGuard IoT System
-Created an ESP8266-based IoT solution for real-time air quality monitoring, featuring GPS and cloud integration for data analysis.
-
-### SmartPresence Attendance System
-Engineered an intelligent RFID-based system to automate student attendance tracking, utilizing Arduino and Firebase for real-time data management.
-
 ## 💼 Professional Experience
 
 **Data Consultant**  
@@ -81,6 +70,19 @@ Engineered an intelligent RFID-based system to automate student attendance track
 - Designed an ESP32-based electronic circuit with integrated GPS for localization.
 - Built a Google Firebase interface for real-time data storage and retrieval.
 - Conducted system architecture design for seamless cloud communication.
+
+
+## 🚀 Projects
+
+### Tax Prediction System
+Developed AI-powered models using Random Forest and Linear Regression to predict tax issues, enhancing accuracy by 20%. Integrated OpenAI API for personalized tax recommendations.
+
+### AirGuard IoT System
+Created an ESP8266-based IoT solution for real-time air quality monitoring, featuring GPS and cloud integration for data analysis.
+
+### SmartPresence Attendance System
+Engineered an intelligent RFID-based system to automate student attendance tracking, utilizing Arduino and Firebase for real-time data management.
+
 
 ## 📜 Certifications
 
